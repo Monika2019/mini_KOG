@@ -13,3 +13,5 @@ DICT_OF_HERO={
     'ARCHER':'射手'
 }
 MAX_FORGE_TIMES = 10
+# 定义士兵当前状态
+STATUS_OF_SOLDIER = ('STRONG','ALLEYS','DEAD')
